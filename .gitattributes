@@ -1,0 +1,2 @@
+# fork 自有：保证 shell 脚本以 LF 提交，Windows 检出也不会变成 CRLF
+*.sh text eol=lf
